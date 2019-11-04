@@ -13,6 +13,10 @@ body {
     padding: 10px;
   }
   
+  .hour-entry{
+      width:90px;
+  }
+
   .jumbotron {
     text-align: center;
     background-color: transparent;
@@ -63,6 +67,7 @@ body {
     border-bottom-right-radius: 15px;
     background-color: #06AED5;
     color: white;
+    height: 62px;
   }
   
   .saveBtn i:hover {
